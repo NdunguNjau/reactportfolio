@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.aefd84c2.css",
+    "main.js": "/reactportfolio/static/js/main.719a9157.js",
+    "static/media/socialnorms.png": "/reactportfolio/static/media/socialnorms.9d5aa3e5945442782bfb.png",
+    "static/media/presentation.png": "/reactportfolio/static/media/presentation.6c4f5557b6054fc4d994.png",
+    "static/media/autobiography.png": "/reactportfolio/static/media/autobiography.e5b5aa6945e865ab9cb7.png",
+    "static/media/bigdata.png": "/reactportfolio/static/media/bigdata.f694e5037d8d77be9091.png",
+    "static/media/py.png": "/reactportfolio/static/media/py.d8b377f05522bf35de36.png",
+    "static/media/coursera.png": "/reactportfolio/static/media/coursera.d67554a57b84b51e4a85.png",
+    "static/media/ndg.png": "/reactportfolio/static/media/ndg.161cacf365ae9e626135.png",
+    "static/media/aipresentation.png": "/reactportfolio/static/media/aipresentation.d5d5b10cb6b497f0d22a.png",
+    "static/media/ceremonies.png": "/reactportfolio/static/media/ceremonies.41a52d8f6cb01dc26b00.png",
+    "static/media/bootstrap.png": "/reactportfolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/dekut.png": "/reactportfolio/static/media/dekut.5d840a117316fe471016.png",
+    "static/media/php.png": "/reactportfolio/static/media/php.b59deec830f215d303b4.png",
+    "static/media/portfolio-image.jpg": "/reactportfolio/static/media/portfolio-image.dce7d5cfc9898b1932b3.jpg",
+    "static/media/logo.png": "/reactportfolio/static/media/logo.b68ca75808e7986c96b5.png",
+    "static/media/react.png": "/reactportfolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/js.png": "/reactportfolio/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/c.png": "/reactportfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/django.png": "/reactportfolio/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/HTML.png": "/reactportfolio/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/reactportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/excel.png": "/reactportfolio/static/media/excel.f7ad53809690a1807fa6.png",
+    "static/media/cisco.jpg": "/reactportfolio/static/media/cisco.22d3e7bddd2f515d28d7.jpg",
+    "static/media/java.png": "/reactportfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.aefd84c2.css.map": "/reactportfolio/static/css/main.aefd84c2.css.map",
+    "main.719a9157.js.map": "/reactportfolio/static/js/main.719a9157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefd84c2.css",
+    "static/js/main.719a9157.js"
+  ]
+}
